@@ -103,4 +103,6 @@ ENV/
 # pycharm
 .iml
 .xml
+.idea
 
+.DS_Store
