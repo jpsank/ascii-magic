@@ -1,4 +1,4 @@
-![logo image](https://github.com/puffyboa/ascii-magic/raw/screenshots/ascii-magic-ascii.png)
+![logo image](https://github.com/puffyboa/ascii-magic/raw/master/screenshots/ascii-magic-ascii.png)
 
 
 # ascii-magic
@@ -31,5 +31,5 @@ Here, we are making a rainbow-colored octocat ascii image, filled with "ROYGBIV"
 ```
 python3 main.py ROYGBIV -c red,orange,yellow,green,blue,blueviolet,violet -m swirl=tl -i octocat.jpg
 ```
-![octocat ascii](https://github.com/puffyboa/ascii-magic/raw/screenshots/octo-ascii.png)
+![octocat ascii](https://github.com/puffyboa/ascii-magic/raw/master/screenshots/octo-ascii.png)
 
